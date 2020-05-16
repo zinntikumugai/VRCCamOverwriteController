@@ -1,6 +1,8 @@
 # VRCCamOverwriteController
 Avatarの画像アップロード時の画像にSDKのバージョンやらを追加できる様になるスクリプトです  
 
+![](https://cdn.discordapp.com/attachments/589079124618903553/711114620471083068/unknown.png)
+![](https://cdn.discordapp.com/attachments/589079124618903553/711115448023777361/unknown.png)
 ## 使い方
 1. VRCSDKやAvatarなどインポートし、アップロード可能な状態にしておく
 1. unitypackageをインポート
