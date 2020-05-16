@@ -26,3 +26,4 @@ Avatarの画像アップロード時の画像にSDKのバージョンやらを�
 MIT License
 ## Update Log
 - 1.0 初期リリース
+- 1.1 ライセンス周り修正
